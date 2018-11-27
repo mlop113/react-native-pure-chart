@@ -488,14 +488,3 @@ const styles = StyleSheet.create({
 })
 
 export default PieChart
-
-    overflow: 'hidden',
-    marginLeft: 0,
-    alignItems: 'center',
-    justifyContent: 'center'
-  },
-  tooltipTitle: {fontSize: 18, fontWeight: 'bold'},
-  tooltipValue: {fontSize: 15, marginTop: 5}
-})
-
-export default PieChart
